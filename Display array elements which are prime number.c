@@ -16,8 +16,6 @@ bool isPrime(int num) {
 
 int main() {
     int size;
-
-    
     printf("Enter the size of the array: ");
     scanf("%d", &size);
 
