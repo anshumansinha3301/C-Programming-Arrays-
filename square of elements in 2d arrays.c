@@ -13,7 +13,6 @@ int main() {
         for (j = 0; j < COLS; j++) {
             printf("Enter element at position [%d][%d]: ", i, j);
             scanf("%d", &array[i][j]);
-
             squaredArray[i][j] = array[i][j] * array[i][j];
         }
     }
