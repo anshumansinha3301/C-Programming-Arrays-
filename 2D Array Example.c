@@ -13,8 +13,6 @@ int main() {
             scanf("%d", &array[i][j]);
         }
     }
-
-  
     printf("\nEntered 2D array is:\n");
     for (i = 0; i < ROWS; i++) {
         for (j = 0; j < COLS; j++) {
