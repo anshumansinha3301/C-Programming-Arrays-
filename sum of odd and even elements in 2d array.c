@@ -30,7 +30,6 @@ int main() {
         }
         printf("\n");
     }
-
     printf("\nSum of even elements in the array: %d\n", sumEven);
     printf("Sum of odd elements in the array: %d\n", sumOdd);
 
