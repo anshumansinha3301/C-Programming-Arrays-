@@ -7,7 +7,6 @@ int main() {
     scanf("%d", &size);
 
     int arr[size];
-
     printf("Enter %d elements:\n", size);
     for (int i = 0; i < size; i++) {
         printf("Element %d: ", i + 1);
