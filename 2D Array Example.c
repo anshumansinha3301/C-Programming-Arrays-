@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 #define ROWS 3  
 #define COLS 4  
 int main() {
