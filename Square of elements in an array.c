@@ -11,7 +11,6 @@ int main() {
         scanf("%d", &arr[i]);
     }
 
-
     printf("Square of array elements:\n");
     for (int i = 0; i < size; i++) {
         printf("%d^2 = %d\n", arr[i], arr[i] * arr[i]);
