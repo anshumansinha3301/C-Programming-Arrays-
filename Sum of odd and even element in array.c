@@ -18,7 +18,7 @@ int main() {
             sumOdd += arr[i];
         }
     }
-
+ 
     
     printf("Sum of even elements: %d\n", sumEven);
     printf("Sum of odd elements: %d\n", sumOdd);
