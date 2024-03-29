@@ -1,5 +1,5 @@
 #include <stdio.h>
- 
+  
 int main() {
     int size, sumEven = 0, sumOdd = 0;
     printf("Enter the size of the array: ");
