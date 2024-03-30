@@ -23,7 +23,7 @@ int main() {
         }
         printf("\n");
     }
-
+ 
     printf("\nArray of squares is:\n");
     for (i = 0; i < ROWS; i++) {
         for (j = 0; j < COLS; j++) {
