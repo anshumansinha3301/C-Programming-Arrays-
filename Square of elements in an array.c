@@ -15,6 +15,6 @@ int main() {
     for (int i = 0; i < size; i++) {
         printf("%d^2 = %d\n", arr[i], arr[i] * arr[i]);
     }
-
+ 
     return 0;
 }
